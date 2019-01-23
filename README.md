@@ -1,5 +1,4 @@
-
-#ssh-authlog-backdoor
+##ssh-authlog-backdoor
 
 A post exploit python script that watches auth.log for a keyword then executes base64 encoded commands.  
 
