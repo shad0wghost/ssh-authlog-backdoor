@@ -10,7 +10,6 @@ A post exploit python script that watches auth.log for a keyword then executes b
 2. Encode a command in base64 by using an online service or how ever you can get base64. https://www.base64encode.org/
 
    Example:
-   
    ``` cat /etc/passwd > /tmp/test ```
    is
    ```Y2F0IC9ldGMvcGFzc3dkID4gL3RtcC90ZXN0```
