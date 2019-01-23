@@ -20,5 +20,5 @@ A post exploit python script that watches auth.log for a keyword then executes b
    
  
 ### TODO
-1. Make client to run on attacker box that can handel responces sent out by backdoor. (Semi-interactive shel)
+1. Make client to run on attacker box that can handle responces that will be sent out by backdoor. (Semi-interactive shel)
 2. Use better encoding/encryption on commands to aid in anti-forensics 
